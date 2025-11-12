@@ -7,11 +7,12 @@ void setup() {
 }
 
 void loop() {
-  int choose = random(1, 3);
+  int choose = random(1, 2);
   if (choose = 1) {
     ScenarioUn();    
     }
   else if (choose = 2){
+     ScenarioDeux();
     }
 }
 
